@@ -1,5 +1,9 @@
 # 🎓 Student Portal Management System
 
+
+https://github.com/user-attachments/assets/c07b3e30-110a-4bdd-be46-5ad90a3388eb
+
+
 # 📜 Description
 
 A Student Portal Management System is a web application designed to help students manage their academic information, including signing in, viewing teachers, and checking grades. This project is built using Java EE, Servlets, JSP, MySQL, and follows MVC architecture.
